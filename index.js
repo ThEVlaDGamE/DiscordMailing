@@ -74,4 +74,4 @@ bot.on('message', async msg => {
 
 
 
-bot.login("ODM5MjgzNjI4NTkxNjc3NDUw.YJHZyg.NW3OCvs2JAXGYIEprFPlvOezNlw");
+bot.login("");
