@@ -16,7 +16,7 @@ function sleep(milliseconds) {
 }
 
 // Ваше ID. Впиши его сюда, если хотите получить ссылки на все сервера в ЛС
-let ownerId = "";
+const ownerId = "";
 
 bot.on('ready', async () => {
     console.log(`Запустился бот ${bot.user.username}`);
